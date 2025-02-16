@@ -1,0 +1,27 @@
+h2{
+    font-size: 2rem;
+    text-align: center;
+    color: black;
+}
+.form-control{
+    display: flex;
+    justify-content: center;
+}
+.text-input{
+    flex-grow: 1;
+    padding: 5px 5px;
+    border: 1px solid #eaeaea;
+    font-size: 15px;
+    font-family: "Noto Serif Lao", serif;
+} 
+.text-input:focus{
+    outline: none;
+}
+.submit-btn{
+    font-family: "Noto Serif Lao", serif;
+    background-color: #28a745;
+    color: white;
+    cursor: pointer;
+    font-size: 1.2rem;
+    border:transparent;
+}

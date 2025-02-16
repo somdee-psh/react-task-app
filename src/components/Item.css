@@ -1,0 +1,21 @@
+.list-item{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 0.5rem;
+    padding: 0.25rem 2rem;
+    box-shadow: 0 1px 3px;
+    border-radius: 0.2rem;
+    font-size: 1.2rem;
+}
+.title{
+    font-weight: bold;
+    color: #000;
+}
+.btn{
+    font-family: "Noto Serif Lao", serif;
+   font-size: 1.2rem; 
+   margin-left: 0.8rem;
+   cursor: pointer;
+   color: #000;
+}

@@ -1,0 +1,9 @@
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  max-height: 100vh;
+  font-family: "Noto Serif Lao", serif;
+}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Lao:wght@100..900&display=swap');
+
